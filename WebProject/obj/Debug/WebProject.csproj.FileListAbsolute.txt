@@ -1,0 +1,6 @@
+C:\Users\Evan\Documents\VisualStudioProjects\WebProject\WebProject\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Documents\VisualStudioProjects\WebProject\WebProject\WebProject\bin\WebProject.dll.config
+C:\Users\Evan\Documents\VisualStudioProjects\WebProject\WebProject\WebProject\bin\WebProject.dll
+C:\Users\Evan\Documents\VisualStudioProjects\WebProject\WebProject\WebProject\bin\WebProject.pdb
+C:\Users\Evan\Documents\VisualStudioProjects\WebProject\WebProject\WebProject\obj\Debug\WebProject.dll
+C:\Users\Evan\Documents\VisualStudioProjects\WebProject\WebProject\WebProject\obj\Debug\WebProject.pdb
